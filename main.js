@@ -12,7 +12,7 @@ let frases = [
   "A vida trará coisas boas se tiveres paciência.",
   "Não há nada que impeça quando Deus quer agir.",
   "Não compense na ira o que lhe falta na razão.",
-  "Defeitos e virtudes são apenas dois lados da mesma moeda.",
+  "O conhecimento é a única virtude.",
   "A torre mais firme é solidificada sob a rocha que é Cristo",
   "Faça pequenas coisas hoje e coisas maiores lhe serão confiadas amanhã.",
   "As dificuldades são oportunidades disfarçadas.",
